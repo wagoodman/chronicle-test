@@ -2,3 +2,4 @@
 # add another cool feature (2)
 # fix (1)
 # another feature (3)
+fix panic
